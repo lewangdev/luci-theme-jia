@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon_title2.png"  >
+  <img src="https://raw.githubusercontent.com/lewangdev/picb0/master/argon_title2.png"  >
   <h1 align="center">
     A new LuCI theme for OpenWrt
   </h1>
@@ -23,10 +23,9 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon2.gif">
+  <img src="https://raw.githubusercontent.com/lewangdev/picb0/master/argon-pc-login.jpg">
 </div>
 
-<br>English | [简体中文](README_ZH.md)
 
 ## Notice 
 It is strongly recommended to use the Chrome browser. Some new css3 features are used in the theme, and currently only Chrome has the best compatibility.
@@ -105,8 +104,6 @@ opkg install luci-compat
 wget --no-check-certificate https://github.com/jerrykuku/luci-theme-argon/releases/download/v2.2.5/luci-theme-argon_2.2.5-20200914_all.ipk
 opkg install luci-theme-argon*.ipk
 ```
-![](/Screenshots/screenshot_pc.jpg)
-![](/Screenshots/screenshot_phone.jpg)
 
 ## Thanks to
 
